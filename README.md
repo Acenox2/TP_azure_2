@@ -1,11 +1,11 @@
 # TP Azure - Mémoire 5ème année
 
-# Etape 1 : 
+# Etape 1 : Prérequis
 
 - Posséder un compte Azure https://portal.azure.com
 - Posséder un compte Github https://github.com/
 
-# Etape 2 : 
+# Etape 2 : Créer un abonnement
 
 - Créer un abonnement. Lorsque vous êtes étudiant, vous pouvez bénéficier de l’offre gratuite disponible ici : https://portal.azure.com/#view/Microsoft_Azure_Education/EducationMenuBlade/~/overview
 
