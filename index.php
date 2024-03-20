@@ -16,12 +16,16 @@
             display: flex;
             justify-content: center;
             align-items: center;
+            flex-direction: column;
             height: 100vh;
         }
         .tp-azure {
             font-size: 3em;
             color: #333;
             text-transform: uppercase;
+        }
+        .explanation {
+            margin-top: 20px;
         }
     </style>
 </head>
@@ -30,9 +34,12 @@
         <div class="tp-azure">
             TP-AZURE
         </div>
+        <div class="explanation">
+            <?php
+                // Explication du déploiement avec Azure
+                echo "<p>Ce site web a été déployé avec Microsoft Azure.</p>";
+            ?>
+        </div>
     </div>
-    <?php
-        echo "<p>Ce site web a été déployé avec Microsoft Azure.</p>";
-    ?>
 </body>
 </html>
