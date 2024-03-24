@@ -130,6 +130,8 @@ Ici, cela sera jparmentier1@myges.fr , voici ce que vous devriez avoir :
 - Le reste laisser par défaut
 - Cliquer sur "Créer"
 
+![Keyvault SSL](https://acenox.fr/memoire/keyvault-ssl.png)
+
 # Etape 11 : Passerelle d'application
 
 La passerelle d'application est un service de réseau. Celui-ci permet de se positionner comme un point d'entrée stratégique pour les applications Web. Il intégre des fonctionnalités telles que l'optimisation des performances, la gestion du trafic et la sécurité avec l'ajout d'un WAF (web application firewall).
