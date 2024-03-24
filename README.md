@@ -139,7 +139,7 @@ La passerelle d'application est un service de réseau. Celui-ci permet de se pos
 https://portal.azure.com/#create/Microsoft.ApplicationGateway-ARM
 
 - Abonnement : Azure for Students
-- Groupe de ressoruce : TP-Azure
+- Groupe de ressource : TP-Azure
 - Nom de la passerelle : tpazureag
 - Région : France Central
 - Niveau : WAF V2
