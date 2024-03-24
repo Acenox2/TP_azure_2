@@ -258,4 +258,4 @@ Pour cela, rien de plus simple il suffit de suivre les étapes suivantes :
 - Sélectionner votre Groupe "TP_Azure"
 - Cliquer sur "Supprimer le groupe de ressources"
 
-![Fin deploiement](https://acenox.fr/memoire/supv2.png)
+![Fin deploiement](https://acenox.fr/memoire/supv3.png)
