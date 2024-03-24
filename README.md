@@ -234,7 +234,7 @@ Par défaut, un WAF est en mode "Prévention", pour notre TP, nous allons interd
 
 ![WAF 2](https://acenox.fr/memoire/waf2.png)
 
-# Etape 13 : Accéder à notre URL possédant un parefeu
+# Etape 13 : Accéder à notre URL possédant un pare feu
 
 - Afficher votre groupe de ressource
 - Sélectionner "tpazureag"
