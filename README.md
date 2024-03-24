@@ -132,7 +132,7 @@ Ici, cela sera jparmentier1@myges.fr , voici ce que vous devriez avoir :
 
 ![Keyvault SSL](https://acenox.fr/memoire/keyvault-ssl.png)
 
-# Etape 11 : Passerelle d'application
+# Étape 11 : Passerelle d'application
 
 La passerelle d'application est un service de réseau. Celui-ci permet de se positionner comme un point d'entrée stratégique pour les applications Web. Il intégre des fonctionnalités telles que l'optimisation des performances, la gestion du trafic et la sécurité avec l'ajout d'un WAF (web application firewall).
 
@@ -205,7 +205,7 @@ Nous allons désormais configurer le serveur frontal
  
   Le déploiement de la passerelle va commencer, cela peut prendre un certain temps. Nous accéderons à la ressource une fois le déploiement terminé.
 
-# Etape 12 : Configurer un WAF
+# Étape 12 : Configurer un WAF
 
 L'intégration d'un Web Application Firewall (WAF) nous offre une couche de sécurité supplémentaire en ajoutant des protections pour les serveurs web.
 
@@ -234,7 +234,7 @@ Par défaut, un WAF est en mode "Prévention", pour notre TP, nous allons interd
 
 ![WAF 2](https://acenox.fr/memoire/waf2.png)
 
-# Etape 13 : Accéder à notre URL possédant un pare feu
+# Étape 13 : Accéder à notre URL possédant un pare feu
 
 - Afficher votre groupe de ressource
 - Sélectionner "tpazureag"
