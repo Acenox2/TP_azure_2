@@ -1,4 +1,9 @@
-# TP Azure - Mémoire 5ème année
+# TP Azure - 2 - Mémoire 5ème année
+
+# Sujet
+
+Dans ce TP, nous allons voir comment déployer une application web avec du développement continu et nous allons voir comment la sécuriser.
+L'objectif est de déployer une infrastructure complète et qui pourrait être utilisée par une entreprise.
 
 # Étape 1 : Prérequis
 
