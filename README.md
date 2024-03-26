@@ -19,7 +19,7 @@ L'objectif est de déployer une infrastructure complète et qui pourrait être u
 Le groupe de ressource permet de regrouper dans un projet les ressources nécessaires. Cela vous permettra de supprimer en deux cliques l'ensemble du projet pour éviter de payer inutilement.
 Rendez-vous ici : https://portal.azure.com/#view/HubsExtension/BrowseResourceGroups
 
-Vous pouvez le nommer "TP_Azure"
+Vous pouvez le nommer "TP_Azure_2"
 
 ![Groupe de ressource](https://acenox.fr/memoire/Groupe%20de%20ressource.png)
 
@@ -37,12 +37,12 @@ Vous pouvez le nommer "TP_Azure"
 
 # Étape 5 : Fork le projet
 
-- Rendez-vous ici : https://github.com/JorisPV/TP_azure
+- Rendez-vous ici : https://github.com/JorisPV/TP_azure_2
 - Cliquer sur le symbole "Fork" se trouvant en haut à droite
 
 ![Fork](https://acenox.fr/memoire/fork.png)
 
-- Récupérer le lien de votre projet Github cela devrait être : https://github.com/<pseudo>/TP_Azure
+- Récupérer le lien de votre projet Github cela devrait être : https://github.com/<pseudo>/TP_Azure_2
 
 # Étape 6 : Relier Github x Azure
 
@@ -50,7 +50,7 @@ Vous pouvez le nommer "TP_Azure"
 - Activer "Github Actions"
 - Compte : Connecter votre compte Github
 - Organisation : Sélectionner votre compte github
-- Dépôt : Sélectionner TP_Azure
+- Dépôt : Sélectionner TP_Azure_2
 - Branche : Main
 
 ![Deploiement](https://acenox.fr/memoire/Deploiement.png)
@@ -262,7 +262,7 @@ Nous vous conseillons fortement de supprimer vos ressources car comme vu pendant
 Pour cela, rien de plus simple il suffit de suivre les étapes suivantes : 
 
 - Rechercher "Groupe de ressources"
-- Sélectionner votre Groupe "TP_Azure"
+- Sélectionner votre Groupe "TP_Azure_2"
 - Cliquer sur "Supprimer le groupe de ressources"
 
 ![Fin deploiement](https://acenox.fr/memoire/supv3.png)
