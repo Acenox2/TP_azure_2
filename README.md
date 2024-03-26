@@ -79,7 +79,7 @@ Une fois le déploiement terminé, vous pourrrez accéder à votre site : https:
 
 ![Fin deploiement](https://acenox.fr/memoire/Deploiement_ok.png)
 
-Félicitations le site est déployé 🎉​ Vous pouvez désormais effectuer des modifications sur votre réportoire Github et les modifications seront automatiquement déployés sur votre site internet Azure.
+Félicitations le site est déployé 🎉​ Vous pouvez désormais effectuer des modifications sur votre répertoire Github et les modifications seront automatiquement déployées sur votre site internet Azure.
 Pour la suite du TP, nous allons accentuer la sécurité de notre application web déployée.
 
 # Étape 10 : Keyvault
