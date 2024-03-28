@@ -37,7 +37,7 @@
         <div class="explanation">
             <?php
                 // Explication du déploiement avec Azure
-                echo "<p>Ce site web a été déployé avec Microsoft Azure.</p>";
+                echo "<p>Test.</p>";
             ?>
         </div>
     </div>
